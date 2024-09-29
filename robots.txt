@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phuqil.github.io/nBv/sitemap.nBv.gz
